@@ -1,5 +1,9 @@
 # Heart_rate_prediction
 
+## Team : Victor
+ Leader : Naveenkumar S , Phn: 9344241718
+ Member2 : Yaadhav R, Phn: 6369493519
+
 ## Overview
 This project aims to predict heart rates based on certain features. The prediction model utilizes a machine learning algorithm trained on a dataset of heart rate observations.
 
