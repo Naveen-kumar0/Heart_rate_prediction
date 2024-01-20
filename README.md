@@ -15,9 +15,10 @@ This project aims to predict heart rates based on certain features. The predicti
 To get started with the heart rate prediction model, follow these steps:
 
 ### Prerequisites
-Make sure you have Python installed. 
-Once you try to run "run.py" use command: py run.py sample_test_data.csv
-Here replace the sample_test_data.csv with the actual file name
+- Make sure you have Python installed. 
+- Once you try to run "run.py"
+- use command: py run.py sample_test_data.csv
+- Here replace the sample_test_data.csv with the actual file name
 
 ## Model Details
 - The heart rate prediction model is built using a Support Vector Machine algorithm. 
