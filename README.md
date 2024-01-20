@@ -11,7 +11,16 @@ This project aims to predict heart rates based on certain features. The predicti
 To get started with the heart rate prediction model, follow these steps:
 
 ### Prerequisites
-Make sure you have Python installed. You can install the required dependencies using the following command:
+Make sure you have Python installed. 
+Once you try to run "run.py" use command: py run.py sample_test_data.csv
+Here replace the sample_test_data.csv with the actual file name
 
-##Model Details
-The heart rate prediction model is built using a K Nearest Neighbors algorithm. The dataset is preprocessed to handle missing values and normalize features.
+## Model Details
+- The heart rate prediction model is built using a Support Vector Machine algorithm. 
+- The dataset is preprocessed to handle missing values and normalize features.
+- The training data is scaled using MinMaxScaler to fall in range [0,1]
+- Hyper Parameter Tuning is carried out to select the best model
+- Model performed at Accuracy of 99% with 0.05 Mean Squared Error
+  
+## Contact
+For questions or feedback, please contact naveenkumarsathish03@gmail.com.
