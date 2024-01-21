@@ -24,7 +24,7 @@ To get started with the heart rate prediction model, follow these steps:
 - The heart rate prediction model is built using a Support Vector Machine algorithm. 
 - The dataset is preprocessed to handle missing values and normalize features.
 - The training data is scaled using MinMaxScaler to fall in range [0,1]
-- Hyper Parameter Tuning is carried out to select the best model
+- Hyper Parameter Tuning is performed to select the best model
 - Model performed at Accuracy of 99% with 0.05 Mean Squared Error
 
 ## Future Work 
