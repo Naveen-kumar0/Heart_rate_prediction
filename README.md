@@ -26,6 +26,11 @@ To get started with the heart rate prediction model, follow these steps:
 - The training data is scaled using MinMaxScaler to fall in range [0,1]
 - Hyper Parameter Tuning is carried out to select the best model
 - Model performed at Accuracy of 99% with 0.05 Mean Squared Error
+
+## Future Work 
+- Now I am having an idea of deploying the model to AWS EC2 instance
+- Soon I will make this happen by creating user friendly website where you can drop the CSV file and download the results
+  
   
 ## Contact
 For questions or feedback, please contact naveenkumarsathish03@gmail.com.
